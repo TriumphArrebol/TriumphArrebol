@@ -23,8 +23,7 @@
 - Portfolio: [https://TriumphArrebol.github.io](https://TriumphArrebol.github.io) 
 
 ---
-
-
+![gitartwork](https://github.com/TriumphArrebol/mine/blob/main/gitartwork.svg)
 
 ### info 🌱
 
