@@ -5,6 +5,10 @@
   </a>
 </h1>
 
+<div align="center">
+  <img src="./assets/tech-animation.svg" alt="Tech style animation banner" width="100%" />
+</div>
+
 # 👋 Hi, I'm Jinze Song  
 
 ---
