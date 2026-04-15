@@ -37,6 +37,6 @@
 </div>
 
 ![gitartwork](https://github.com/TriumphArrebol/mine/blob/main/gitartwork.svg)
-![Snake animation Light](![](https://cdn.jsdelivr.net/gh/TriumphArrebol/TriumphArrebol@main/assets/github-contribution-grid-snake.svg))
+![Snake animation Light](https://raw.githubusercontent.com/TriumphArrebol/TriumphArrebol/output/github-contribution-grid-snake.svg)
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
